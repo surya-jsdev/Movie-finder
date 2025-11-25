@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    border-radius: 10px;
+    width: 450px;
+    height: 500px;
+    background-color: rgb(72, 70, 70);
+}
+
+.container h2 {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.inputcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+input {
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    border: none;
+}
+
+button {
+    /* border-radius: 5px; */
+    padding: 5px;
+    margin: 0 0 0 10px;
+}
