@@ -9,7 +9,7 @@ body {
 .container {
     border-radius: 10px;
     width: 450px;
-    height: 500px;
+    height:auto;
     background-color: rgb(72, 70, 70);
 }
 
@@ -37,4 +37,16 @@ button {
     /* border-radius: 5px; */
     padding: 5px;
     margin: 0 0 0 10px;
+}
+.output{
+    width: 350px;
+    height: 50vh;
+    /* background-color: aqua; */
+    margin: 30px 0;
+    border-radius: 10px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    display: block;
 }
