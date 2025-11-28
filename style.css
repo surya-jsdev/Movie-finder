@@ -85,4 +85,10 @@ img {
 .movieresult strong {
     padding: 0px;
 }
+input {
+    padding: 3px;
+}
+button {
+    padding: 3px;
+}
 }
