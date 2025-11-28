@@ -28,6 +28,7 @@ finder.addEventListener("click", async function () {
         <p> <strong>imdb:</strong> ${data.Actors}</p>
         <p> <strong>Realsed Year:</strong>${data.Released}</p>
         <p> <strong>language:</strong>${data.Language}</p>
+        <p> <strong>Genre:</strong>${data.Genre}</p>
         <p> <strong>imdb:</strong> ⭐ ${data.imdbRating}</p>
             </div>
         `;
