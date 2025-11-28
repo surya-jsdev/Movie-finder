@@ -26,7 +26,7 @@ body {
 }
 
 input {
-    padding: 12px;
+    padding: 10px;
     width: 300px;
     border-radius: 10px;
     border: none;
@@ -84,11 +84,5 @@ img {
 }
 .movieresult strong {
     padding: 0px;
-}
-input {
-    padding: 3px;
-}
-button {
-    padding: 3px;
 }
 }
